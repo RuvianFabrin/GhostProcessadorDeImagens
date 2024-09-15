@@ -1,0 +1,3 @@
+C:\aplicativosCSharpLili\GhostProcessadorDeImagens\bin\Release\net8.0\win-x64\publish\GhostProcessadorDeImagens.pdb
+C:\aplicativosCSharpLili\GhostProcessadorDeImagens\bin\Release\net8.0\win-x64\publish\Magick.Native-Q8-x64.dll
+C:\aplicativosCSharpLili\GhostProcessadorDeImagens\bin\Release\net8.0\win-x64\publish\GhostProcessadorDeImagens.exe
